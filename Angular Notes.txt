@@ -1,0 +1,20 @@
+Angular Notes
+
+Angular is a free and open-source web application framework led by the Angular Team at Google. It is a complete rewrite from the same team that built AngularJS.
+Angular is a platform that makes it easy to build applications with a variety of features, including:
+Components: Angular applications are made up of components, which are self-contained pieces of code that can be reused throughout the application.
+Templates: Angular uses templates to define the structure of an application's user interface.
+Data binding: Angular uses data binding to keep the user interface and the application's data in sync.
+Dependency injection: Angular uses dependency injection to make it easy to inject services into components.
+Routing: Angular uses routing to navigate between different views in an application.
+Angular is a powerful framework that can be used to build a wide variety of applications, from simple websites to complex enterprise applications.
+Here are some of the key features of Angular:
+Component-based architecture:
+Angular applications are made up of components, which are self-contained pieces of code that can be reused throughout the application. This makes it easy to build complex applications by breaking them down into smaller, more manageable pieces.
+Two-way data binding:
+Angular uses two-way data binding to keep the user interface and the application's data in sync. This means that when a user changes the data in the user interface, the application's data is automatically updated, and vice versa. This makes it easy to build dynamic and responsive applications.
+Dependency injection:
+Angular uses dependency injection to make it easy to inject services into components. This makes it easy to build loosely coupled applications that are easy to test and maintain.
+Routing:
+Angular uses routing to navigate between different views in an application. This makes it easy to build complex applications with multiple pages.
+Angular is a popular choice for building web applications because it is a powerful and flexible framework that can be used to build a wide variety of applications. It is also well-maintained and has a large community of developers who contribute to its development.
