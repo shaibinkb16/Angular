@@ -1,0 +1,18 @@
+.wrapper{
+    height: 100px;
+    width: 100%;
+    border-bottom:1px solid var(--bg-color);
+    padding: 20px 10px;
+    box-sizing: border-box;
+    box-shadow: 10px  5px 10px rgb(0,0,0,0.3);
+    border-radius: 50px 0px;
+}
+.logo{
+    height:100px;
+    object-fit:contain;
+    
+}
+h1{
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
